@@ -1,0 +1,23 @@
+.product {
+    display: inline-block;
+    width: 200px;
+    border: 5px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+  }
+  .product img {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 10px;
+  }
+  .cart {
+    position: fixed;
+    width:150px ;
+    top: 20px;
+    text-align: center;
+    left: 55%;
+    background-color: lightslategray;
+    padding: 19px;
+    border: 1px solid #ccc;
+  }
